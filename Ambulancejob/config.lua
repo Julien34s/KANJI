@@ -18,7 +18,7 @@ Config.BleedoutTimer              = 10 * minute -- Time til the player bleeds ou
 
 Config.EnablePlayerManagement     = true
 
-Config.RemoveWeaponsAfterRPDeath  = false
+Config.RemoveWeaponsAfterRPDeath  = true
 Config.RemoveCashAfterRPDeath     = false
 Config.RemoveItemsAfterRPDeath    = false
 
